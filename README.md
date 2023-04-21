@@ -2,4 +2,4 @@
 
 ## Xuehai's Portfolio
 ### About me
-I'm a student at Columbia University
+I'm a MEMS student at Columbia University
